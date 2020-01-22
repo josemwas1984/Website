@@ -1,0 +1,20 @@
+h1{
+    color:greenyellow;
+    text-shadow: slategray;
+    box-sizing:2px;
+}
+h2{
+   color:green; 
+}
+h{
+ color:blue;
+}
+p{
+    border:3px;
+    color:blueviolet;
+    border-width:1px;
+}
+body{
+    background-color:pink;
+    font-size: xx-large;
+}
