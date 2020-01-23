@@ -2,6 +2,8 @@ h1{
     color:greenyellow;
     text-shadow: slategray;
     box-sizing:2px;
+    font-family: 'Bangers', cursive;
+
 }
 h2{
    color:green; 
@@ -13,6 +15,8 @@ p{
     border:3px;
     color:blueviolet;
     border-width:1px;
+    font-family: 'Bangers', cursive;
+font-family: 'Kaushan Script', cursive;
 }
 body{
     background-color:pink;
